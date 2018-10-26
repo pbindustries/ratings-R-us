@@ -31,36 +31,29 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Top Movies</h3>
-                                <p>The best movies available today</p>
+                                <h3>Top Brands</h3>
+                                <p>Top of the line</p>
                             </header>
                             <Link to="/topMovies" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Top TV Shows </h3>
-                                <p>The best TV shows available today</p>
+                                <h3>Hot Deals</h3>
+                                <p>Best deals available</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Categories</h3>
-                                <p>See available categories</p>
+                                <h3>Gallery</h3>
+                                <p>See available products</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>About this site</h3>
-                                <p>See what makes this the best movie/tv review site</p>
-                            </header>
-                            <Link to="/landing" className="link primary"></Link>
-                        </article>
-                        <article style={{backgroundImage: `url(${pic05})`}}>
-                            <header className="major">
-                                <h3>Other projects</h3>
-                                <p>More projects created by PB Industries</p>
+                                <h3>Our Edge</h3>
+                                <p>Our product pricing algorithm is on the bleeding-edge </p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -68,9 +61,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Reviews by the people, for the people</h2>
+                                <h2>Reviews from previous customers</h2>
                             </header>
-                            <p>The purpose of this site is to create a review site that utilizes the best features of the top reviews sites while leaving out the problems. Please let us know if you have any ideas or criticisms for us. </p>
+                            <p> - Add review automatic scrolling wheel - </p>
                         </div>
                     </section>
                 </div>

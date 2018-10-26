@@ -7,7 +7,7 @@ const Banner = (props) => (
                 <h1>Welcome to Ratings R' Us</h1>
             </header>
             <div className="content">
-                <p>You portal to the best movie reviews and recommendations</p>
+                <p>Your portal to the best prices in brand name products</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
